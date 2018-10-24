@@ -3,9 +3,6 @@
 error_reporting(0);
 include 'babua12.php';
 session_start();
-//if($_SESSION['flag']==1)
-//{
-	//++$_SESSION['flag'];
 $h=$_SESSION['user'];//if we entered email first time to start new session or resume session for existing email
 $t=mysql_query("SELECT name,email from xyz where email='$h'");
 $row=mysql_fetch_assoc($t);

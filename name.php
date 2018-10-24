@@ -51,12 +51,10 @@ if(isset($_POST['Enter']))
 {
  $name=$_POST['naam'];
  $email=$_POST['e'];
- //$email=echo "".'$email1';
  $age=$_POST['age'];
  $pet=$_POST['petname'];
  $sports=$_POST['sports'];
- //$q=mysql_query("select email from xyz where email='$email'");//for email already exist
- //$r=mysql_num_rows($q);
+  //$r=mysql_num_rows($q);
  //if($r==0)
  //{
  //if($pass==$confpass)

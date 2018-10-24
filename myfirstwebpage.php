@@ -162,10 +162,8 @@ ul{
 	left:760px;
 	width:100%;
 	margin:0px;
-	
 }
-li{
-		
+li{	
 	  display:inline;
 	  border:2px solid orange;
 	  border-radius:4px;
@@ -174,12 +172,12 @@ li{
 	  padding-right:28px;
 	  font-family:"Gunplay";
 	  background:red;
-list-style:none;
+           list-style:none;
 		   }
 li:hover{
 	background:yellow;
 	border:2px solid rgb(255,179,128);
-	  border-radius:8px;
+	 border-radius:8px;
 }
 #form1{
 color:orange;
@@ -198,10 +196,9 @@ text-align:left;
 #footer_c {
     border:5px solid #666;
     top:700px;
-    
     height:250px;
     left:0;
-	position:absolute;
+     position:absolute;
     width:100%;
 }
 #footer {
@@ -227,9 +224,6 @@ font-family:"Gunplay";
 </style>
 </head>
 <body  style="background-image:url('fuck.jpg')";>
-
-
-
 <marquee><h2>let's begin from here.....</h2></marquee></br>
 <nav>
   <ul>

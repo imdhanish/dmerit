@@ -1,7 +1,7 @@
 # dmerit
-web page
+Web page
 And it is special mention that I have done all the coding things in one single file.
-since it was a easy website so it is made in one file but if you are developing lengthy website prefer all the things seperately and then merge it.
+since it was a easy website so it is made in one file but if you are developing lengthy website prefer all the things seperately and then merge it.Seperately means you should create HTML,CSS page seperately.
 
 
 myfirstwebpage.php is considered as index.php
